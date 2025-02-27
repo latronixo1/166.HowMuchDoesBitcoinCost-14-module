@@ -107,6 +107,8 @@
 			);
 			mainGroup = 6BE666032D6E43430090F0BE;
 			minimizedProjectReferenceProxies = 1;
+			packageReferences = (
+			);
 			preferredProjectObjectVersion = 77;
 			productRefGroup = 6BE6660D2D6E43430090F0BE /* Products */;
 			projectDirPath = "";
@@ -148,7 +150,7 @@
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "166.HowMuchDoesBitcoinCost-14-module/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Цена Биткоин";
+				INFOPLIST_KEY_CFBundleDisplayName = "Цена Биткоина";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
@@ -176,7 +178,7 @@
 				DEVELOPMENT_TEAM = Z4PKJ57KTJ;
 				GENERATE_INFOPLIST_FILE = YES;
 				INFOPLIST_FILE = "166.HowMuchDoesBitcoinCost-14-module/Info.plist";
-				INFOPLIST_KEY_CFBundleDisplayName = "Цена Биткоин";
+				INFOPLIST_KEY_CFBundleDisplayName = "Цена Биткоина";
 				INFOPLIST_KEY_UIApplicationSupportsIndirectInputEvents = YES;
 				INFOPLIST_KEY_UILaunchStoryboardName = LaunchScreen;
 				INFOPLIST_KEY_UISupportedInterfaceOrientations_iPad = "UIInterfaceOrientationPortrait UIInterfaceOrientationPortraitUpsideDown UIInterfaceOrientationLandscapeLeft UIInterfaceOrientationLandscapeRight";
