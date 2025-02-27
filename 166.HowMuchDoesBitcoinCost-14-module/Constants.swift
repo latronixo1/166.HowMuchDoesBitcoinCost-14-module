@@ -15,6 +15,6 @@ enum Constants {
 //    static let geoSF = "location.circle.fill" //картинка для кнопки определения геопозиции, изображение будет браться из SF Symbols
 //    static let search = "Search"
 //    static let conditionSF = "cloud.rain"
-    static let id = "ec22b65c-552f-452c-a1d1-0a11dcaceecd"  // мой id на сайте coinapi.io
+    static let id = "732f4862-20f4-43b4-a331-1b5276d8e08a"  // мой id на сайте coinapi.io
     
 }
